@@ -1,11 +1,8 @@
 ## Daan Zieverink
 
-[![](https://visitcount.itsvg.in/api?id=doanii&icon=1&color=4)](https://visitcount.itsvg.in)
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=doanii&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=doanii&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=doanii&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Doanii's GitHub | Stats](https://stats.quine.sh/Doanii/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Doanii)
+[![Doanii's Stack Overflow | Stats](https://stats.quine.sh/Doanii/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Doanii)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
