@@ -1,6 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on SkyServe {Link Coming Soon}<br>🌱 I’m currently learning "Rust and Go"
-
+## Daan Zieverink
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daanz.074) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daan-zieverink-88489026b/) 
