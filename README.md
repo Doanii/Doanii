@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🙋 My name is Daan Zieverink<br>
-🏢 I'm currently working by [Jitso](https://www.jitso.nl/)<br>
+🏢 I'm currently working at [Jitso](https://www.jitso.nl/)<br>
 
 # 📊 GitHub Stats:
 [![Doanii's GitHub | Stats](https://stats.quine.sh/Doanii/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Doanii)
